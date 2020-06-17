@@ -7,13 +7,13 @@ Created a fitness tracking app utilizing Node.js, Express.js, MongoDB, Heroku, a
 ## Images
 
 Image of main view:
-![Image of the user's view when you visit the site](./public/images/mainView.png)
+![Image of the user's view when you visit the site](./public/assets/images/mainView.png)
 
 Image of adding exercises:
-![Image of the user's view when adding an exercise](./public/images/exerciseView.png)
+![Image of the user's view when adding an exercise](./public/assets/images/exerciseView.png)
 
 Image of Workout/Stats Dashboard
-![image of the user's view when looking at the Workout Dashboard](./public/images/statsView.png)
+![image of the user's view when looking at the Workout Dashboard](./public/assets/images/statsView.png)
 
 ## Usage
 
